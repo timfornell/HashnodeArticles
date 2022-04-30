@@ -1,4 +1,4 @@
-## Marching squares - Generating random contours
+## Marching squares
 
 # Introduction
 I recently stumbled upon a video on Youtube about an algorithm called *Marching Cubes* (I think it was [this video by Sebastian Lague](https://www.youtube.com/watch?v=M3iI2l0ltbE)). I found it interesting and thought that it would be fun to understand how the algorithm works. Now, I have never worked with graphics in 3D and neither have I worked in Unity so I was initially a bit skeptical of the idea. However, I found out that there is a simplified version of this algorithm for 2D that is called *Marching Squares*. Since I recently started programming in P5 I thought that this would make for a neat little project. A project that potentially could be built upon in the future. 
